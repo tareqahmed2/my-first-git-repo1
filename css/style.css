@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+}
+
+.first {
+    border: 1px solid chocolate;
+    padding: 15px;
+}
+.second,.third {
+    border: 1px solid burlywood;
+    padding: 15px;
+    margin-top: 10px;
+}
+
